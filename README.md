@@ -15,6 +15,6 @@ Then, you can make changes to the project and commit those changes using the fol
 2. `git status` (to see the changes you made)
 3. `git add .` or `git add filename`
 4. `git commit -m "commit_message"`
-5. `git push origin branch_name `
+5. `git push -u origin branch_name `
 
 Now, your changes are visible on branch_name.
