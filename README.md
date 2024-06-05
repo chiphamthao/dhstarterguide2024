@@ -17,4 +17,4 @@ Then, you can make changes to the project and commit those changes using the fol
 4. `git commit -m "commit_message"`
 5. `git push -u origin branch_name `
 
-Now, your changes are visible on branch_name.
+Now, on GitHub, your changes are visible on branch_name.
